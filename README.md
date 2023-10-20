@@ -1,1 +1,1 @@
-# A simple onchain calulator written in Cairo
+# A simple onchain calculator written in Cairo
